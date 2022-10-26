@@ -9,3 +9,5 @@ https://cert.gov.ua/article/2394117
 https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware
 
 https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius
+
+https://blogs.blackberry.com/en/2022/10/unattributed-romcom-threat-actor-spoofing-popular-apps-now-hits-ukrainian-militaries

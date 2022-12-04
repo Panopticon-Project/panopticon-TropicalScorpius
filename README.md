@@ -11,3 +11,5 @@ https://www.mandiant.com/resources/blog/unc2596-cuba-ransomware
 https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius
 
 https://blogs.blackberry.com/en/2022/10/unattributed-romcom-threat-actor-spoofing-popular-apps-now-hits-ukrainian-militaries
+
+https://therecord.media/cisa-cuba-ransomware-group-has-stolen-60-million-from-at-least-100-organizations/

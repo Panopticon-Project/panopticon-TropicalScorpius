@@ -21,3 +21,5 @@ https://www.sentinelone.com/labs/driving-through-defenses-targeted-attacks-lever
 https://news.sophos.com/en-us/2022/12/13/signed-driver-malware-moves-up-the-software-trust-chain/
 
 https://www.wired.com/story/microsoft-certificates-ransomware-cuba-malware/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-335a

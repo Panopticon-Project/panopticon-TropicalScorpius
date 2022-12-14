@@ -15,3 +15,7 @@ https://blogs.blackberry.com/en/2022/10/unattributed-romcom-threat-actor-spoofin
 https://therecord.media/cisa-cuba-ransomware-group-has-stolen-60-million-from-at-least-100-organizations/
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-335a
+
+https://www.sentinelone.com/labs/driving-through-defenses-targeted-attacks-leverage-signed-malicious-microsoft-drivers/
+
+https://news.sophos.com/en-us/2022/12/13/signed-driver-malware-moves-up-the-software-trust-chain/
